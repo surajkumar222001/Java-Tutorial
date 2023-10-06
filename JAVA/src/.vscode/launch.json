@@ -6,6 +6,69 @@
     "configurations": [
         {
             "type": "java",
+            "name": "DisplayReverseArray",
+            "request": "launch",
+            "mainClass": "recursion.DisplayReverseArray",
+            "projectName": "src_244e82f6"
+        },
+        {
+            "type": "java",
+            "name": "DisplayArrayElement",
+            "request": "launch",
+            "mainClass": "recursion.DisplayArrayElement",
+            "projectName": "src_244e82f6"
+        },
+        {
+            "type": "java",
+            "name": "PrintZigZag",
+            "request": "launch",
+            "mainClass": "recursion.PrintZigZag",
+            "projectName": "src_244e82f6"
+        },
+        {
+            "type": "java",
+            "name": "PowerLogarithmic",
+            "request": "launch",
+            "mainClass": "recursion.PowerLogarithmic",
+            "projectName": "src_244e82f6"
+        },
+        {
+            "type": "java",
+            "name": "Power",
+            "request": "launch",
+            "mainClass": "recursion.Power",
+            "projectName": "src_244e82f6"
+        },
+        {
+            "type": "java",
+            "name": "Factorial",
+            "request": "launch",
+            "mainClass": "recursion.Factorial",
+            "projectName": "src_244e82f6"
+        },
+        {
+            "type": "java",
+            "name": "PrintDecreasingIncreasing",
+            "request": "launch",
+            "mainClass": "recursion.PrintDecreasingIncreasing",
+            "projectName": "src_244e82f6"
+        },
+        {
+            "type": "java",
+            "name": "PrintIncreasing",
+            "request": "launch",
+            "mainClass": "recursion.PrintIncreasing",
+            "projectName": "src_244e82f6"
+        },
+        {
+            "type": "java",
+            "name": "PrintDecreasing",
+            "request": "launch",
+            "mainClass": "recursion.PrintDecreasing",
+            "projectName": "src_244e82f6"
+        },
+        {
+            "type": "java",
             "name": "war",
             "request": "launch",
             "mainClass": "Autograder.war",
